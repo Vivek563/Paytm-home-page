@@ -30,9 +30,9 @@
 ## Screenshot
 <br>
 
-![Desktop](./Screenshot.png)
-![Desktop](./Screenshot2.png)
-![Desktop](./Screenshot3.png)
-![Desktop](./Screenshot4.png)
-![Desktop](./Screenshot5.png)
-![Desktop](./Screenshot6.png)
+![Desktop](./screenshot/Screenshot.png)
+![Desktop](./screenshot/Screenshot2.png)
+![Desktop](./screenshot/Screenshot3.png)
+![Desktop](./screenshot/Screenshot4.png)
+![Desktop](./screenshot/Screenshot5.png)
+![Desktop](./screenshot/Screenshot6.png)
