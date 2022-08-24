@@ -5,11 +5,17 @@
 
 ![HTML & CSS](https://img.shields.io/badge/HTML-CSS-orange)
 
-![name](https://img.shields.io/badge/Vivek--Maurya-MCA--First--Year-orange)
+![name](https://img.shields.io/badge/Vivek--Maurya-MCA)
+<br>
+ <br>
 
-## Project  [Live Link](https://vivek-paytm.netlify.app/)
+# Project  [Live Link](https://vivek-paytm.netlify.app/)
 
-Completed this project only using Tailwind-CSS
+<br>
+ <br>
+
+ ## Completed this project only using Tailwind-CSS
+
  <br>
  <br>
 
@@ -19,8 +25,14 @@ Completed this project only using Tailwind-CSS
 -   2 days to complete it.
 
 <br>
+<br>
 
-#### Screenshot
+## Screenshot
 <br>
 
 ![Desktop](./Screenshot.png)
+![Desktop](./Screenshot2.png)
+![Desktop](./Screenshot3.png)
+![Desktop](./Screenshot4.png)
+![Desktop](./Screenshot5.png)
+![Desktop](./Screenshot6.png)
